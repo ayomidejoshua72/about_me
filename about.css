@@ -1,0 +1,48 @@
+body{
+    margin: 0px;
+    padding: 0px;
+}
+div{
+    margin: 0px;
+    padding: 0px;
+}
+
+.profile {
+    float: inline-start;
+    box-sizing: border-box;
+    padding: 0 20px;
+    width: 600px;
+    height: auto;
+    text-align: center;
+    background-color: #fff;
+    border-radius: 10px;
+    margin-top: 60px
+    
+}
+
+.image {
+    background-image: url(laptop.jpg);
+    background-size: cover;
+    border-radius: 50%;
+    margin: -60px auto;
+    width: 120px;
+    height: 120px
+}
+
+.body {
+    display: flex; 
+    justify-content: center;
+    padding: 90px 30px;
+    background-color: #F76B1D;
+    height: 100;
+}
+
+.head {
+    background-color: white;
+    width: 100%;
+    text-align: center;
+}
+.name{
+    margin-top: 70px;
+    padding: 0px;
+}
